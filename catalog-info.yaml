@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "backstage-springboot-test"
+  description: "test desc"
+  annotations:
+    github.com/project-slug: AmineAfia/backstage-springboot
+    backstage.io/techdocs-ref: url:https://github.com/AmineAfia/backstage-springboot
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "Amine A"

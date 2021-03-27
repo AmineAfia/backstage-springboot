@@ -1,0 +1,8 @@
+site_name: "backstage-springboot-test"
+site_description: "test desc"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
